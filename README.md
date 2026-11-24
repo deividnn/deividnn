@@ -17,7 +17,7 @@ Sou Analista de Sistemas, desenvolvo desde **2013** e possuo sólida base em **J
 
 ## 🎓 Formação Acadêmica
 
-- **Pós-graduação em  Inteligência Artificial e Machine Learning **
+- **Pós-graduação em Inteligência Artificial e Machine Learning**
 - **Pós-graduação em Arquitetura de Software**
 - **Graduação em Análise e Desenvolvimento de Sistemas**
 
